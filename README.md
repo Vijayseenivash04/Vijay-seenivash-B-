@@ -1,2 +1,2 @@
-# Vijay-seenivash-B-
-Vijay seenivash B 
++ This is my first GitHub repository
++ created for academic learning purpose 
